@@ -5,4 +5,4 @@ lets practice for my page!
 
 hello world
 
-lets practice git status, commit, push!
+lets practice git status, add, commit, push!
